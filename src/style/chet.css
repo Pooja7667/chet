@@ -1,0 +1,33 @@
+.box-1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(7, 7, 209);
+}
+
+.chet{
+  display: flex;
+  gap:15rem;
+}
+
+
+
+img{
+border-radius:50%;
+height:50px;
+height:50px;
+}
+.box-2{
+  height:100vh;
+  width:25%;
+  background-color: blueviolet;
+  /* display:grid; */
+  justify-content: center;
+  align-items: center;
+  border: 5px solid pink;
+}
+
+.input{
+  margin-top: 80%;
+  margin-left:4rem;
+}

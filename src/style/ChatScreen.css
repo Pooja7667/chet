@@ -1,9 +1,10 @@
 .chat-screen {
   display: flex;
   flex-direction: column;
-  height: 100vh;
-  background-color: #f4f4f8;
+  height: 80vh;
+  background-color: #2828ce;
   padding: 10px;
+  width:50%;
 }
 
 .messages {
@@ -86,3 +87,4 @@
 .status.failed {
   color: red;
 }
+
